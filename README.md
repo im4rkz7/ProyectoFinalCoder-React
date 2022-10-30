@@ -22,7 +22,7 @@ Luego se **corre el proyecto** con este comando:
 
 # Librerías & Dependencias
 Librerias y dependencias (algunas externas) fueron utilizarlas para darle un valor adicional a la aplicación
- - **[react](https://es.reactjs.org/)** -> Para poder utilizar JSX. Version: ^18.2.0
+ - **[react](https://es.reactjs.org/)**
  - [**Boostrap Vanilla**](https://react-bootstrap.github.io/getting-started/introduction) 
  -  [**React Bootstrap**](https://react-bootstrap.github.io/getting-started/introduction) 
  - **[react-router-dom](https://v5.reactrouter.com/web/guides/quick-start)** 
