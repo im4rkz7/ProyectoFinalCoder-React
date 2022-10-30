@@ -4,7 +4,7 @@
 
 Para instalar y ejecutar la aplicación web, se debe **[clonar este repositorio](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)**. Posteriormente estando ubicado en el directorio creado, se debe ejecutar este comando:
 
-    cd ProyectoFinalCoder
+    cd "nombre carpeta"
 Luego, vamos a verificar si node.js esta instalado, para lo cual en la terminal de la aplicacion y posicionandose en el path correcto, se ejecuta este comando:
 
     node -v
